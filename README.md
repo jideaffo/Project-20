@@ -364,7 +364,7 @@ Verify that the compose is in the running status:
 4. Ensure that both pipelines have a clean-up stage where all the images are deleted on the Jenkins server.
 
 
-![alt text](./images/a3.PNG)
+
 
 ![alt text](./images/b.PNG)
 
@@ -400,3 +400,5 @@ Now you know how to prepare a Dockerfile, build an image with Docker build and d
 In the next project, we will expand your skills further into more advanced use cases and technologies.
 
 Move on to the next project!
+
+![alt text](./images/a3.PNG)
